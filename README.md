@@ -1,5 +1,5 @@
-# Zastávky-DPMLJ
-Zde najdete všechny Liberecké, abecedně sežazené zastávky.
+# Zastávky DPMLJ
+Zde najdete všechny Liberecké, abecedně sežazené názvy zastávek. V souboru ZMENY.md najdete změny názvů, které bych udělal. 
 1. Americká
 2. Aréna
 3. Areál Vesec

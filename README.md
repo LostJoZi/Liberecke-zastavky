@@ -90,7 +90,7 @@ Zde najdete všechny Liberecké, abecedně sežazené názvy zastávek. V soubor
 30. Garáže ČSAD
 
 
-31. Garáže DPMLJ
+31. Garáže 
 
 
 32. Globus

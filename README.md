@@ -234,3 +234,25 @@ Zde najdete všechny Liberecké, abecedně sežazené názvy zastávek. V soubor
 - Vozovna - vozovna tramvají (Mrštíkova)
 - Garáže - garáže autobusů (Vilová)
 - Areál Vesec - konečná zastávka, místo konání každoročního festivalu Benátská
+
+# Změny
+Změny názvů zastávek a hlášení, které bych udělal.
+
+## Názvy zastávek
+- Bánskobystrická -> Magna (jednodušší a jvýstižnější)
+- Kunratická Sídliště -> Sídliště Kunratická (lepší formulace)
+- Ruprechtice Sídliště -> Sídliště Ruprechtice (lepší formulace)
+- Františkov Sídliště -> Sídliště Františkov (lepší formulace)
+- Melantrichova -> Milady Horákové (Lépe zní, lépe se zapamatuje)
+- Jablonec n.N. Zelené Údolí -> Palouček (Lépe zní, kratší název)
+- U Krematoria -> Perštýnské krematorium (Lépe zní, řekne víc)
+
+
+
+## Změny v hlášení
+- Fügnerova -> Fügnerova, hlavní terminál MHD
+- Nádraží -> Nádraží, přestup na vlakovou a regionální autobusovou dopravu
+- Zastávky u vlaků: Rochlice, přestup na linky L a další vlakové spoje
+- Přidat hlášení o výstupu do vozovky (Kubelíkova, výstup do vozovky)
+- Uvítací hlášení na začátku linky (Dobrý den! Vítejte na lince číslo 3 směr Horní Hanychov. Přejeme vám příjemnou cestu. *gong* Lidové Sady - Zoo, potom normálně)
+- Konečné zastávky: Příští zastávka, Horní Hanychov. Konečná. *gong* Horní Hanychov, Konečná zastávka, prosíme vystupte. 

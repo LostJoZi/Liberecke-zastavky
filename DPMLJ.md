@@ -1,6 +1,6 @@
 ![obrazek](https://github.com/user-attachments/assets/0fd24aa2-4c4d-408f-a277-c1b7c9995fcf)
 
-Zde najdete všechny Liberecké, abecedně sežazené názvy zastávek. V souboru ZMENY.md najdete změny názvů, které bych udělal. Zdroj: Jízdní řády DPMLJ (https://www.dpmlj.cz)
+Zde najdete všechny Liberecké, abecedně sežazené názvy zastávek. Zdroj: Jízdní řády DPMLJ (https://www.dpmlj.cz)
 
 - Americká
 - Aréna
